@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background: linear-gradient(to right, rgb(157, 241, 236), rgb(14, 77, 129));
+}
+
+h1 {
+    color: rgb(216, 245, 247);
+    letter-spacing: 1vh;
+}
+
+h3 {
+    color: wheat;
+}
+
+h4 {
+    color: wheat;
+}
+
